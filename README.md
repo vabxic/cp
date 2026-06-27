@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 7 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (12)
-- [math](#math) (3)
+- [implementation](#implementation) (13)
+- [math](#math) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
@@ -43,6 +43,7 @@
 |---|---------|------------|----------|
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
@@ -59,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 
