@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 6 |
+| 14 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (10)
 - [math](#math) (3)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
 
@@ -27,6 +28,13 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### implementation
 
@@ -56,6 +64,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vabxic/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
 
