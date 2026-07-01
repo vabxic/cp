@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    string n;
+    cin >> n;
+ 
+    int cnt = 0;
+    for (char c : n) {
+        if (c == '4' || c == '7')
+            cnt++;
+    }
+ 
+    if (cnt == 0) {
+        cout << "NO";
+        return 0;
+    }
+ 
+    while (cnt > 0) {
+        int d = cnt % 10;
+        if (d != 4 && d != 7) {
+            cout << "NO";
+            return 0;
+        }
+        cnt /= 10;
+    }
+ 
+    cout << "YES";
+    return 0;
+}
